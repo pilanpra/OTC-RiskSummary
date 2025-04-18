@@ -1,0 +1,501 @@
+trade_id,counterparty,notional,rate,volatility,maturity_days,trade_type
+TRD-0001,Citi,10599795.08,0.0173,0.115,631,Interest Rate Swap
+TRD-0002,Barclays,16702691.86,0.0333,0.395,343,Credit Default Swap
+TRD-0003,Deutsche Bank,7080942.42,0.0269,0.366,595,Cross Currency Swap
+TRD-0004,Barclays,18014941.34,0.0457,0.29,1065,Credit Default Swap
+TRD-0005,Barclays,8394831.9,0.0427,0.438,238,Interest Rate Swap
+TRD-0006,JP Morgan,1205915.38,0.0237,0.422,1067,FX Forward
+TRD-0007,Deutsche Bank,18202257.55,0.0204,0.334,1073,Cross Currency Swap
+TRD-0008,Deutsche Bank,2734446.86,0.0252,0.447,616,FX Forward
+TRD-0009,Deutsche Bank,7066959.11,0.0336,0.182,1044,Cross Currency Swap
+TRD-0010,Barclays,19051177.37,0.0207,0.145,727,Credit Default Swap
+TRD-0011,Citi,19061535.79,0.035,0.208,161,Credit Default Swap
+TRD-0012,Deutsche Bank,11895319.87,0.0264,0.123,1073,Credit Default Swap
+TRD-0013,Barclays,13004907.03,0.0321,0.312,565,Credit Default Swap
+TRD-0014,JP Morgan,9520464.92,0.0274,0.475,1043,Credit Default Swap
+TRD-0015,Citi,6571004.66,0.0218,0.116,256,FX Forward
+TRD-0016,JP Morgan,7244626.36,0.0479,0.149,851,Credit Default Swap
+TRD-0017,Citi,13777850.67,0.0405,0.281,900,Interest Rate Swap
+TRD-0018,Barclays,15295116.06,0.0156,0.474,434,Interest Rate Swap
+TRD-0019,Goldman Sachs,16040001.83,0.0447,0.226,231,FX Forward
+TRD-0020,Citi,16002744.71,0.0295,0.303,67,Cross Currency Swap
+TRD-0021,JP Morgan,2732915.96,0.0458,0.117,971,Interest Rate Swap
+TRD-0022,Barclays,10393985.79,0.042,0.159,217,Cross Currency Swap
+TRD-0023,Citi,2093616.44,0.027,0.495,970,FX Forward
+TRD-0024,Goldman Sachs,11441048.76,0.0109,0.486,1073,Cross Currency Swap
+TRD-0025,Goldman Sachs,9389079.53,0.0207,0.102,302,Cross Currency Swap
+TRD-0026,Deutsche Bank,17866379.47,0.0317,0.481,612,Cross Currency Swap
+TRD-0027,Deutsche Bank,7667385.24,0.0353,0.356,545,Cross Currency Swap
+TRD-0028,JP Morgan,3224273.31,0.0203,0.447,555,FX Forward
+TRD-0029,Citi,3716841.96,0.0156,0.282,365,Interest Rate Swap
+TRD-0030,Citi,15468702.0,0.0434,0.306,727,Credit Default Swap
+TRD-0031,Deutsche Bank,12746143.2,0.0494,0.296,529,Cross Currency Swap
+TRD-0032,Citi,2921330.85,0.031,0.367,929,Interest Rate Swap
+TRD-0033,Citi,2598029.32,0.0169,0.156,795,Interest Rate Swap
+TRD-0034,Goldman Sachs,14318413.5,0.0209,0.112,565,FX Forward
+TRD-0035,Deutsche Bank,2382497.12,0.0107,0.223,191,Interest Rate Swap
+TRD-0036,Barclays,16615341.13,0.0466,0.382,623,FX Forward
+TRD-0037,Deutsche Bank,14418602.32,0.0147,0.181,188,Cross Currency Swap
+TRD-0038,Barclays,2545626.83,0.0331,0.369,89,Cross Currency Swap
+TRD-0039,Goldman Sachs,2611916.57,0.021,0.488,944,Credit Default Swap
+TRD-0040,JP Morgan,19746151.99,0.0322,0.138,240,Credit Default Swap
+TRD-0041,Citi,8111145.12,0.0361,0.369,435,Credit Default Swap
+TRD-0042,Goldman Sachs,8042200.79,0.0432,0.278,693,Interest Rate Swap
+TRD-0043,Citi,16443191.78,0.0183,0.447,571,Cross Currency Swap
+TRD-0044,JP Morgan,18997722.97,0.0104,0.171,1027,FX Forward
+TRD-0045,JP Morgan,19734020.21,0.0155,0.377,956,Credit Default Swap
+TRD-0046,Goldman Sachs,15314185.52,0.046,0.435,897,FX Forward
+TRD-0047,JP Morgan,8148932.13,0.045,0.478,48,FX Forward
+TRD-0048,Barclays,2586513.62,0.0339,0.373,461,Credit Default Swap
+TRD-0049,JP Morgan,15765791.4,0.034,0.299,769,Cross Currency Swap
+TRD-0050,Citi,11609680.74,0.0366,0.347,212,Credit Default Swap
+TRD-0051,Citi,9060218.18,0.017,0.448,142,FX Forward
+TRD-0052,Citi,18220733.32,0.0466,0.328,510,Credit Default Swap
+TRD-0053,Citi,3112752.16,0.0268,0.112,860,FX Forward
+TRD-0054,Barclays,10359876.98,0.0253,0.472,792,FX Forward
+TRD-0055,Deutsche Bank,1215719.25,0.0308,0.376,505,Credit Default Swap
+TRD-0056,Goldman Sachs,9904552.2,0.0119,0.371,792,Interest Rate Swap
+TRD-0057,Citi,2069762.24,0.0167,0.186,1000,Credit Default Swap
+TRD-0058,JP Morgan,3257540.41,0.0395,0.364,1049,Interest Rate Swap
+TRD-0059,Citi,3232998.69,0.0133,0.258,190,FX Forward
+TRD-0060,JP Morgan,13334995.74,0.0341,0.36,430,FX Forward
+TRD-0061,JP Morgan,15174852.71,0.0198,0.143,227,Interest Rate Swap
+TRD-0062,Citi,12084006.54,0.0256,0.363,689,FX Forward
+TRD-0063,Barclays,19281278.42,0.0215,0.5,428,Interest Rate Swap
+TRD-0064,JP Morgan,8122541.01,0.0242,0.119,107,Interest Rate Swap
+TRD-0065,JP Morgan,6428529.64,0.0388,0.491,153,FX Forward
+TRD-0066,Citi,17503383.44,0.0219,0.263,104,Cross Currency Swap
+TRD-0067,JP Morgan,5248320.93,0.0327,0.448,166,Interest Rate Swap
+TRD-0068,JP Morgan,19301228.25,0.029,0.413,631,Credit Default Swap
+TRD-0069,Citi,1230935.02,0.0365,0.327,866,Credit Default Swap
+TRD-0070,Citi,19427697.71,0.0475,0.395,529,FX Forward
+TRD-0071,Goldman Sachs,1820038.33,0.0393,0.451,167,Cross Currency Swap
+TRD-0072,Barclays,17931719.16,0.0186,0.262,79,FX Forward
+TRD-0073,Barclays,11026321.07,0.0112,0.231,1002,Cross Currency Swap
+TRD-0074,JP Morgan,19866331.13,0.0205,0.367,283,Interest Rate Swap
+TRD-0075,Barclays,2402134.73,0.0338,0.423,739,Interest Rate Swap
+TRD-0076,JP Morgan,11523231.4,0.0121,0.405,592,Interest Rate Swap
+TRD-0077,Goldman Sachs,19416748.18,0.0299,0.419,786,Interest Rate Swap
+TRD-0078,Citi,10938859.04,0.0339,0.274,576,Credit Default Swap
+TRD-0079,Citi,12958574.12,0.0234,0.427,951,Credit Default Swap
+TRD-0080,Citi,14219225.09,0.0408,0.148,610,FX Forward
+TRD-0081,Barclays,9636280.23,0.0143,0.318,78,Cross Currency Swap
+TRD-0082,Goldman Sachs,12923603.52,0.013,0.102,946,Interest Rate Swap
+TRD-0083,Barclays,12101971.93,0.0391,0.23,733,Interest Rate Swap
+TRD-0084,Barclays,18122002.2,0.0298,0.247,290,Cross Currency Swap
+TRD-0085,Goldman Sachs,1863481.23,0.0375,0.258,385,Cross Currency Swap
+TRD-0086,Goldman Sachs,6338300.6,0.0274,0.378,667,FX Forward
+TRD-0087,Goldman Sachs,19057818.2,0.0199,0.255,772,Cross Currency Swap
+TRD-0088,Goldman Sachs,17915011.89,0.0428,0.279,1039,Interest Rate Swap
+TRD-0089,Citi,9657478.3,0.042,0.195,960,Interest Rate Swap
+TRD-0090,Deutsche Bank,12782519.36,0.0378,0.249,670,Interest Rate Swap
+TRD-0091,Deutsche Bank,6270242.48,0.0209,0.191,821,Interest Rate Swap
+TRD-0092,Goldman Sachs,4574302.03,0.0336,0.129,641,Interest Rate Swap
+TRD-0093,Deutsche Bank,9810269.69,0.0244,0.341,838,FX Forward
+TRD-0094,Deutsche Bank,7713692.33,0.0137,0.367,715,Interest Rate Swap
+TRD-0095,Goldman Sachs,12089466.13,0.0467,0.348,217,FX Forward
+TRD-0096,Deutsche Bank,2476958.1,0.0155,0.285,1014,Interest Rate Swap
+TRD-0097,Barclays,19513501.35,0.048,0.252,577,Credit Default Swap
+TRD-0098,JP Morgan,19738004.15,0.0278,0.445,754,Credit Default Swap
+TRD-0099,JP Morgan,14265072.57,0.0174,0.308,955,Credit Default Swap
+TRD-0100,Goldman Sachs,11185830.96,0.0317,0.292,905,Credit Default Swap
+TRD-0101,Citi,6881024.71,0.0449,0.11,647,FX Forward
+TRD-0102,Goldman Sachs,16462105.37,0.0393,0.236,443,FX Forward
+TRD-0103,Citi,14009892.28,0.0423,0.252,932,Cross Currency Swap
+TRD-0104,JP Morgan,4089721.85,0.0364,0.26,192,Interest Rate Swap
+TRD-0105,Goldman Sachs,18307616.51,0.0377,0.332,299,Credit Default Swap
+TRD-0106,Barclays,16628207.62,0.044,0.313,661,FX Forward
+TRD-0107,Deutsche Bank,19046198.35,0.02,0.343,935,Interest Rate Swap
+TRD-0108,Citi,14788670.66,0.0296,0.406,234,Interest Rate Swap
+TRD-0109,Deutsche Bank,12654888.72,0.0188,0.425,611,FX Forward
+TRD-0110,Deutsche Bank,8946617.69,0.0495,0.387,870,Credit Default Swap
+TRD-0111,Goldman Sachs,18721841.18,0.0478,0.482,625,Cross Currency Swap
+TRD-0112,Deutsche Bank,17455213.9,0.0116,0.107,279,Interest Rate Swap
+TRD-0113,Barclays,1859154.73,0.0382,0.178,904,Cross Currency Swap
+TRD-0114,Deutsche Bank,1500972.52,0.047,0.103,225,Credit Default Swap
+TRD-0115,Goldman Sachs,8152803.97,0.0172,0.359,719,Credit Default Swap
+TRD-0116,Barclays,16400513.28,0.0327,0.459,668,Cross Currency Swap
+TRD-0117,JP Morgan,19758246.46,0.0466,0.197,701,Credit Default Swap
+TRD-0118,Deutsche Bank,3857920.93,0.0114,0.471,973,Interest Rate Swap
+TRD-0119,Goldman Sachs,12288483.59,0.0379,0.124,228,Cross Currency Swap
+TRD-0120,JP Morgan,8236926.28,0.0219,0.474,521,Credit Default Swap
+TRD-0121,JP Morgan,19428373.56,0.047,0.241,925,Cross Currency Swap
+TRD-0122,Citi,17000259.54,0.0488,0.141,171,Interest Rate Swap
+TRD-0123,Barclays,16928245.39,0.0478,0.294,194,Credit Default Swap
+TRD-0124,Deutsche Bank,9905170.04,0.029,0.203,343,Interest Rate Swap
+TRD-0125,Goldman Sachs,8881570.54,0.0445,0.214,50,Credit Default Swap
+TRD-0126,Citi,6194734.37,0.0438,0.223,1013,FX Forward
+TRD-0127,Barclays,2071134.44,0.0228,0.421,334,Credit Default Swap
+TRD-0128,Citi,17429725.15,0.0432,0.316,400,Cross Currency Swap
+TRD-0129,Barclays,16445119.17,0.0115,0.225,882,Credit Default Swap
+TRD-0130,Barclays,19994635.79,0.0339,0.344,413,Interest Rate Swap
+TRD-0131,Deutsche Bank,19936099.9,0.0192,0.386,474,Interest Rate Swap
+TRD-0132,Barclays,11553202.41,0.0148,0.209,454,Credit Default Swap
+TRD-0133,Citi,15610760.89,0.0131,0.265,190,Cross Currency Swap
+TRD-0134,Barclays,18950548.87,0.0379,0.149,658,FX Forward
+TRD-0135,Deutsche Bank,17143300.42,0.0236,0.172,924,Cross Currency Swap
+TRD-0136,Deutsche Bank,5699613.93,0.039,0.372,519,FX Forward
+TRD-0137,Citi,9560338.57,0.0126,0.173,1046,Interest Rate Swap
+TRD-0138,JP Morgan,3454028.89,0.0226,0.31,356,Cross Currency Swap
+TRD-0139,JP Morgan,19126969.52,0.0316,0.384,627,FX Forward
+TRD-0140,Barclays,12517318.05,0.0416,0.143,1044,Credit Default Swap
+TRD-0141,Goldman Sachs,5344213.3,0.0228,0.327,318,Interest Rate Swap
+TRD-0142,Barclays,13762313.0,0.035,0.203,622,Credit Default Swap
+TRD-0143,Citi,12744436.57,0.0454,0.485,602,Interest Rate Swap
+TRD-0144,Citi,7805091.64,0.0346,0.293,57,Cross Currency Swap
+TRD-0145,Citi,3157594.25,0.0193,0.422,983,Cross Currency Swap
+TRD-0146,Citi,13759890.72,0.011,0.32,72,Interest Rate Swap
+TRD-0147,Citi,10885846.32,0.0448,0.117,452,Interest Rate Swap
+TRD-0148,Deutsche Bank,15674049.44,0.0109,0.353,206,Interest Rate Swap
+TRD-0149,JP Morgan,10883106.52,0.045,0.481,558,Cross Currency Swap
+TRD-0150,Citi,17191448.51,0.0312,0.341,995,FX Forward
+TRD-0151,Goldman Sachs,11486229.94,0.0476,0.428,227,Credit Default Swap
+TRD-0152,Goldman Sachs,11657821.46,0.042,0.454,639,Credit Default Swap
+TRD-0153,Goldman Sachs,17656418.45,0.0499,0.191,871,Cross Currency Swap
+TRD-0154,Goldman Sachs,8666174.46,0.024,0.185,882,Credit Default Swap
+TRD-0155,Deutsche Bank,3546289.34,0.0407,0.344,51,Interest Rate Swap
+TRD-0156,Goldman Sachs,1546870.85,0.0261,0.264,871,FX Forward
+TRD-0157,Citi,15347607.86,0.0292,0.436,127,Credit Default Swap
+TRD-0158,Barclays,12785881.48,0.0351,0.46,464,FX Forward
+TRD-0159,Goldman Sachs,14377515.59,0.0449,0.241,666,Interest Rate Swap
+TRD-0160,Deutsche Bank,5046319.07,0.0494,0.195,617,Credit Default Swap
+TRD-0161,Deutsche Bank,3591058.04,0.0407,0.412,373,Cross Currency Swap
+TRD-0162,Goldman Sachs,1276348.65,0.0267,0.21,600,FX Forward
+TRD-0163,Barclays,7661163.62,0.0269,0.429,640,Interest Rate Swap
+TRD-0164,Goldman Sachs,12208436.05,0.0395,0.269,272,FX Forward
+TRD-0165,Deutsche Bank,8452636.86,0.0196,0.367,590,Credit Default Swap
+TRD-0166,JP Morgan,9312023.52,0.0144,0.138,989,Credit Default Swap
+TRD-0167,Citi,18179015.2,0.0242,0.35,61,Cross Currency Swap
+TRD-0168,Deutsche Bank,7616853.87,0.0215,0.281,420,Interest Rate Swap
+TRD-0169,Goldman Sachs,10765800.29,0.0219,0.335,306,Interest Rate Swap
+TRD-0170,Citi,15889407.24,0.0193,0.167,561,Cross Currency Swap
+TRD-0171,Goldman Sachs,8534312.86,0.0117,0.395,412,Cross Currency Swap
+TRD-0172,Goldman Sachs,12819647.3,0.0107,0.445,913,Interest Rate Swap
+TRD-0173,JP Morgan,17384910.47,0.0495,0.187,243,FX Forward
+TRD-0174,Citi,19040891.85,0.0271,0.138,405,FX Forward
+TRD-0175,Citi,3794396.14,0.0254,0.109,773,Cross Currency Swap
+TRD-0176,JP Morgan,18605164.88,0.0372,0.357,242,FX Forward
+TRD-0177,Deutsche Bank,10350209.57,0.0187,0.343,108,Interest Rate Swap
+TRD-0178,Goldman Sachs,5906643.38,0.048,0.319,657,Credit Default Swap
+TRD-0179,Barclays,9723579.37,0.0415,0.193,633,Credit Default Swap
+TRD-0180,Goldman Sachs,19620618.93,0.0136,0.256,811,FX Forward
+TRD-0181,Goldman Sachs,10359743.79,0.0267,0.338,1030,Cross Currency Swap
+TRD-0182,Deutsche Bank,7246280.6,0.0452,0.299,709,Cross Currency Swap
+TRD-0183,Goldman Sachs,13034616.23,0.0478,0.495,87,Cross Currency Swap
+TRD-0184,JP Morgan,5562766.76,0.0287,0.155,1079,Cross Currency Swap
+TRD-0185,JP Morgan,2441403.23,0.0345,0.378,910,Cross Currency Swap
+TRD-0186,Citi,3448714.72,0.0167,0.262,476,FX Forward
+TRD-0187,Barclays,3432870.94,0.0496,0.271,95,Credit Default Swap
+TRD-0188,Goldman Sachs,3886151.18,0.0193,0.387,1041,Credit Default Swap
+TRD-0189,Goldman Sachs,3637716.28,0.0477,0.377,256,FX Forward
+TRD-0190,Deutsche Bank,13176620.15,0.036,0.497,803,Cross Currency Swap
+TRD-0191,JP Morgan,4455721.6,0.0343,0.151,708,FX Forward
+TRD-0192,Barclays,7567678.38,0.0305,0.142,630,Credit Default Swap
+TRD-0193,Citi,18038979.79,0.0192,0.39,408,Interest Rate Swap
+TRD-0194,JP Morgan,10005271.16,0.0171,0.331,738,FX Forward
+TRD-0195,Citi,13683597.03,0.0188,0.21,336,Cross Currency Swap
+TRD-0196,Deutsche Bank,4274077.55,0.0175,0.132,808,Credit Default Swap
+TRD-0197,Deutsche Bank,4653491.36,0.0412,0.134,533,Credit Default Swap
+TRD-0198,Goldman Sachs,1776503.71,0.024,0.458,297,Credit Default Swap
+TRD-0199,Barclays,4209766.2,0.0123,0.177,37,Credit Default Swap
+TRD-0200,Citi,6293216.44,0.0488,0.229,537,Cross Currency Swap
+TRD-0201,JP Morgan,4363199.2,0.0454,0.191,505,Interest Rate Swap
+TRD-0202,Deutsche Bank,2685348.14,0.0471,0.242,193,Credit Default Swap
+TRD-0203,Goldman Sachs,3292081.55,0.0498,0.128,514,FX Forward
+TRD-0204,Goldman Sachs,9754796.59,0.017,0.308,596,Interest Rate Swap
+TRD-0205,Citi,4920340.65,0.0258,0.127,934,Credit Default Swap
+TRD-0206,Deutsche Bank,7921127.36,0.0403,0.42,588,Interest Rate Swap
+TRD-0207,Barclays,10564928.15,0.0378,0.193,267,FX Forward
+TRD-0208,Deutsche Bank,14117501.74,0.0162,0.316,583,Credit Default Swap
+TRD-0209,Citi,1746930.66,0.0426,0.452,857,FX Forward
+TRD-0210,Citi,16188797.58,0.019,0.36,497,Cross Currency Swap
+TRD-0211,Deutsche Bank,12930107.4,0.019,0.313,415,Credit Default Swap
+TRD-0212,Citi,2553421.61,0.0315,0.23,804,Credit Default Swap
+TRD-0213,Deutsche Bank,17597993.86,0.0337,0.233,877,Credit Default Swap
+TRD-0214,JP Morgan,18496575.61,0.0332,0.368,416,Credit Default Swap
+TRD-0215,Deutsche Bank,2160481.24,0.0137,0.498,906,Cross Currency Swap
+TRD-0216,Deutsche Bank,6260675.31,0.0451,0.365,288,Credit Default Swap
+TRD-0217,Citi,16317824.32,0.0206,0.323,312,Interest Rate Swap
+TRD-0218,Citi,15216934.12,0.0152,0.392,69,Credit Default Swap
+TRD-0219,Goldman Sachs,4505899.37,0.0455,0.286,515,Cross Currency Swap
+TRD-0220,Goldman Sachs,4977637.14,0.0482,0.124,958,Credit Default Swap
+TRD-0221,JP Morgan,8038969.95,0.0445,0.325,249,Interest Rate Swap
+TRD-0222,Goldman Sachs,10205936.72,0.0424,0.483,1044,Cross Currency Swap
+TRD-0223,Deutsche Bank,12746840.66,0.0362,0.17,1053,Cross Currency Swap
+TRD-0224,Citi,8009359.15,0.032,0.376,642,Interest Rate Swap
+TRD-0225,Goldman Sachs,9788159.61,0.0135,0.18,957,Interest Rate Swap
+TRD-0226,Goldman Sachs,15201947.82,0.0263,0.314,717,Interest Rate Swap
+TRD-0227,JP Morgan,1696980.85,0.0249,0.139,642,Interest Rate Swap
+TRD-0228,JP Morgan,5796301.94,0.0204,0.28,289,Interest Rate Swap
+TRD-0229,Deutsche Bank,14553642.13,0.0389,0.402,1019,Cross Currency Swap
+TRD-0230,Citi,18008929.92,0.0298,0.239,995,Cross Currency Swap
+TRD-0231,JP Morgan,10721871.4,0.0132,0.366,395,Credit Default Swap
+TRD-0232,Goldman Sachs,11110156.22,0.0188,0.418,573,Credit Default Swap
+TRD-0233,Citi,3036268.22,0.0373,0.471,678,FX Forward
+TRD-0234,Citi,9500834.97,0.013,0.194,843,Credit Default Swap
+TRD-0235,Goldman Sachs,11119728.06,0.044,0.26,1069,Credit Default Swap
+TRD-0236,JP Morgan,5606939.57,0.0298,0.161,604,Interest Rate Swap
+TRD-0237,Goldman Sachs,6115621.39,0.0292,0.497,1042,Interest Rate Swap
+TRD-0238,Citi,8168399.1,0.0337,0.471,699,Credit Default Swap
+TRD-0239,Barclays,1381352.76,0.043,0.316,298,FX Forward
+TRD-0240,Barclays,7119504.15,0.0239,0.437,953,Interest Rate Swap
+TRD-0241,Deutsche Bank,5017512.13,0.0371,0.308,276,Credit Default Swap
+TRD-0242,Goldman Sachs,7222449.69,0.0326,0.349,160,Credit Default Swap
+TRD-0243,Goldman Sachs,3275480.5,0.0207,0.136,382,Cross Currency Swap
+TRD-0244,Deutsche Bank,17920018.33,0.0451,0.402,225,FX Forward
+TRD-0245,Deutsche Bank,12278256.62,0.0419,0.151,959,Cross Currency Swap
+TRD-0246,Deutsche Bank,13902944.06,0.0363,0.43,1051,FX Forward
+TRD-0247,Citi,15994253.53,0.044,0.413,674,Interest Rate Swap
+TRD-0248,Goldman Sachs,10470401.78,0.0447,0.383,256,FX Forward
+TRD-0249,Citi,2651485.47,0.0383,0.114,730,Credit Default Swap
+TRD-0250,Deutsche Bank,11205024.29,0.0435,0.221,294,Credit Default Swap
+TRD-0251,Goldman Sachs,12149981.24,0.0379,0.205,675,FX Forward
+TRD-0252,Citi,15163350.01,0.0372,0.244,240,FX Forward
+TRD-0253,Citi,9201531.38,0.0347,0.135,972,FX Forward
+TRD-0254,Deutsche Bank,3424025.75,0.0401,0.475,486,Cross Currency Swap
+TRD-0255,Goldman Sachs,6391742.21,0.0163,0.322,754,FX Forward
+TRD-0256,Deutsche Bank,7898563.63,0.0452,0.222,1011,Interest Rate Swap
+TRD-0257,Goldman Sachs,13272427.59,0.0449,0.259,617,Cross Currency Swap
+TRD-0258,Barclays,11844787.79,0.0112,0.279,505,Cross Currency Swap
+TRD-0259,JP Morgan,7765837.79,0.043,0.34,1015,FX Forward
+TRD-0260,JP Morgan,19743789.73,0.0152,0.306,185,Interest Rate Swap
+TRD-0261,JP Morgan,12509721.57,0.0234,0.468,219,Cross Currency Swap
+TRD-0262,Deutsche Bank,5507309.04,0.0397,0.299,1010,Credit Default Swap
+TRD-0263,Barclays,2933866.98,0.0164,0.497,575,Cross Currency Swap
+TRD-0264,Goldman Sachs,3904323.64,0.0427,0.441,70,FX Forward
+TRD-0265,Citi,5673196.84,0.0433,0.183,336,Interest Rate Swap
+TRD-0266,Goldman Sachs,4052946.09,0.0303,0.472,972,FX Forward
+TRD-0267,Citi,4544773.46,0.0103,0.147,367,Credit Default Swap
+TRD-0268,Goldman Sachs,6416808.21,0.0215,0.427,982,Credit Default Swap
+TRD-0269,Barclays,4294098.31,0.0347,0.252,308,Credit Default Swap
+TRD-0270,Citi,18038543.07,0.0492,0.451,925,FX Forward
+TRD-0271,Deutsche Bank,2524441.17,0.0353,0.447,302,Cross Currency Swap
+TRD-0272,Goldman Sachs,10965716.4,0.0204,0.422,866,FX Forward
+TRD-0273,Goldman Sachs,8797539.71,0.0354,0.416,649,Interest Rate Swap
+TRD-0274,Citi,19665193.72,0.0316,0.222,891,Cross Currency Swap
+TRD-0275,Deutsche Bank,3128739.14,0.0412,0.132,960,Credit Default Swap
+TRD-0276,Deutsche Bank,8559256.38,0.0143,0.261,318,FX Forward
+TRD-0277,Barclays,19419938.23,0.0404,0.169,753,Credit Default Swap
+TRD-0278,Deutsche Bank,17444635.39,0.0317,0.378,922,Credit Default Swap
+TRD-0279,Deutsche Bank,16524369.35,0.0485,0.238,301,Interest Rate Swap
+TRD-0280,Deutsche Bank,5900153.71,0.0237,0.49,512,Cross Currency Swap
+TRD-0281,JP Morgan,4246864.16,0.0353,0.356,965,Interest Rate Swap
+TRD-0282,Barclays,13704221.18,0.0473,0.429,277,Interest Rate Swap
+TRD-0283,Goldman Sachs,18658143.79,0.0141,0.153,185,Interest Rate Swap
+TRD-0284,Citi,11578494.97,0.0475,0.445,483,Credit Default Swap
+TRD-0285,Goldman Sachs,11860641.1,0.0375,0.469,230,Interest Rate Swap
+TRD-0286,Barclays,6319602.78,0.0127,0.295,153,Interest Rate Swap
+TRD-0287,Citi,15620365.73,0.022,0.343,30,Cross Currency Swap
+TRD-0288,Barclays,4553831.22,0.0383,0.406,997,Cross Currency Swap
+TRD-0289,Deutsche Bank,7149905.49,0.0127,0.17,884,Interest Rate Swap
+TRD-0290,Citi,9083292.33,0.0333,0.301,669,Cross Currency Swap
+TRD-0291,Deutsche Bank,10644597.2,0.0238,0.259,220,Cross Currency Swap
+TRD-0292,Goldman Sachs,5605784.92,0.0348,0.159,545,Interest Rate Swap
+TRD-0293,Goldman Sachs,3181899.67,0.0118,0.247,471,Credit Default Swap
+TRD-0294,Citi,12601780.81,0.0449,0.127,172,Interest Rate Swap
+TRD-0295,Citi,6483980.51,0.0489,0.11,562,Cross Currency Swap
+TRD-0296,Barclays,12043526.21,0.0488,0.154,256,Credit Default Swap
+TRD-0297,Barclays,3932891.59,0.04,0.485,978,FX Forward
+TRD-0298,Deutsche Bank,10141661.94,0.0152,0.32,489,Credit Default Swap
+TRD-0299,Citi,11119199.22,0.0403,0.486,580,Cross Currency Swap
+TRD-0300,Goldman Sachs,1984647.2,0.011,0.273,422,Credit Default Swap
+TRD-0301,Barclays,7395481.29,0.0109,0.225,874,Interest Rate Swap
+TRD-0302,Barclays,3553878.86,0.0229,0.302,239,FX Forward
+TRD-0303,Goldman Sachs,2204124.44,0.0295,0.276,675,FX Forward
+TRD-0304,Barclays,19809244.42,0.0408,0.142,248,FX Forward
+TRD-0305,Deutsche Bank,7124723.05,0.0373,0.356,436,Cross Currency Swap
+TRD-0306,Citi,16387614.47,0.0278,0.186,917,Cross Currency Swap
+TRD-0307,Goldman Sachs,5838172.44,0.0209,0.348,587,FX Forward
+TRD-0308,Citi,13948551.72,0.0499,0.36,579,Credit Default Swap
+TRD-0309,Barclays,15444329.34,0.027,0.161,171,FX Forward
+TRD-0310,Barclays,12317136.07,0.0281,0.125,641,Credit Default Swap
+TRD-0311,Goldman Sachs,9959947.58,0.0165,0.412,530,Credit Default Swap
+TRD-0312,Deutsche Bank,8824977.37,0.0418,0.284,869,Cross Currency Swap
+TRD-0313,JP Morgan,7628497.06,0.0377,0.123,731,Credit Default Swap
+TRD-0314,Goldman Sachs,18661053.74,0.0188,0.498,625,FX Forward
+TRD-0315,JP Morgan,16781768.75,0.0133,0.123,310,Cross Currency Swap
+TRD-0316,JP Morgan,19335511.3,0.0372,0.378,453,Interest Rate Swap
+TRD-0317,Deutsche Bank,3361647.25,0.0362,0.493,885,Interest Rate Swap
+TRD-0318,JP Morgan,14886482.03,0.0209,0.196,299,Cross Currency Swap
+TRD-0319,JP Morgan,18828468.68,0.048,0.157,183,FX Forward
+TRD-0320,Deutsche Bank,4443428.26,0.016,0.149,643,Interest Rate Swap
+TRD-0321,JP Morgan,2263429.08,0.0273,0.221,691,Interest Rate Swap
+TRD-0322,JP Morgan,15081292.34,0.0477,0.14,112,Credit Default Swap
+TRD-0323,JP Morgan,11914989.15,0.0268,0.377,976,Credit Default Swap
+TRD-0324,Goldman Sachs,16994746.76,0.0355,0.125,928,FX Forward
+TRD-0325,Goldman Sachs,3655675.16,0.0259,0.304,313,Cross Currency Swap
+TRD-0326,Goldman Sachs,16110078.93,0.021,0.499,1009,FX Forward
+TRD-0327,Deutsche Bank,4830919.08,0.0494,0.426,202,Cross Currency Swap
+TRD-0328,Barclays,4109462.91,0.0264,0.346,792,Interest Rate Swap
+TRD-0329,JP Morgan,4121050.16,0.0458,0.223,662,Credit Default Swap
+TRD-0330,JP Morgan,16476919.68,0.0192,0.35,816,FX Forward
+TRD-0331,Deutsche Bank,13638747.19,0.0185,0.311,972,FX Forward
+TRD-0332,JP Morgan,10938243.07,0.0112,0.27,1041,Cross Currency Swap
+TRD-0333,Goldman Sachs,7817779.2,0.0361,0.152,427,Cross Currency Swap
+TRD-0334,Barclays,17666810.28,0.0247,0.455,963,FX Forward
+TRD-0335,Citi,8456457.04,0.0446,0.28,705,Cross Currency Swap
+TRD-0336,JP Morgan,16515389.35,0.0289,0.178,965,FX Forward
+TRD-0337,Goldman Sachs,9343563.26,0.0487,0.247,494,FX Forward
+TRD-0338,Citi,8161944.16,0.0174,0.266,315,FX Forward
+TRD-0339,Barclays,9790915.93,0.0447,0.431,294,Interest Rate Swap
+TRD-0340,Citi,6726179.61,0.0411,0.393,349,Cross Currency Swap
+TRD-0341,Goldman Sachs,15204578.22,0.0408,0.408,702,Credit Default Swap
+TRD-0342,Citi,10551687.41,0.0438,0.104,849,Credit Default Swap
+TRD-0343,Deutsche Bank,5412041.21,0.0404,0.266,118,Cross Currency Swap
+TRD-0344,Citi,18091916.89,0.035,0.293,850,FX Forward
+TRD-0345,JP Morgan,8293933.21,0.0152,0.108,1030,Credit Default Swap
+TRD-0346,JP Morgan,11327504.36,0.0113,0.204,363,Credit Default Swap
+TRD-0347,Deutsche Bank,18222970.11,0.0468,0.404,251,Cross Currency Swap
+TRD-0348,Goldman Sachs,12860521.92,0.0347,0.155,70,Credit Default Swap
+TRD-0349,JP Morgan,3221062.77,0.0419,0.314,97,FX Forward
+TRD-0350,Barclays,18856810.35,0.0293,0.186,1017,Cross Currency Swap
+TRD-0351,JP Morgan,12926453.01,0.0147,0.105,543,FX Forward
+TRD-0352,JP Morgan,7363206.68,0.015,0.196,724,Credit Default Swap
+TRD-0353,Goldman Sachs,3646169.38,0.0374,0.49,1069,Credit Default Swap
+TRD-0354,Citi,16086478.6,0.0272,0.421,506,FX Forward
+TRD-0355,JP Morgan,12781382.36,0.018,0.484,910,Interest Rate Swap
+TRD-0356,Deutsche Bank,11135760.75,0.0297,0.295,461,Credit Default Swap
+TRD-0357,Citi,17983959.08,0.0126,0.144,297,Interest Rate Swap
+TRD-0358,Barclays,15983347.01,0.0333,0.319,1088,Credit Default Swap
+TRD-0359,Goldman Sachs,3881822.71,0.0208,0.282,808,Interest Rate Swap
+TRD-0360,Barclays,6922719.29,0.0419,0.438,523,Interest Rate Swap
+TRD-0361,Citi,5721293.66,0.0224,0.139,690,Interest Rate Swap
+TRD-0362,Citi,15134979.56,0.0282,0.295,1042,FX Forward
+TRD-0363,Citi,1637116.26,0.0105,0.16,1088,Interest Rate Swap
+TRD-0364,Barclays,11827904.01,0.0129,0.23,1006,Interest Rate Swap
+TRD-0365,Citi,15486715.03,0.0257,0.395,511,Interest Rate Swap
+TRD-0366,Barclays,17658547.1,0.0292,0.29,757,Credit Default Swap
+TRD-0367,Citi,7499553.23,0.034,0.25,509,Interest Rate Swap
+TRD-0368,Deutsche Bank,16603888.79,0.0217,0.258,1061,Credit Default Swap
+TRD-0369,Citi,3102003.0,0.0378,0.284,372,Interest Rate Swap
+TRD-0370,Barclays,17082593.54,0.0444,0.414,361,Interest Rate Swap
+TRD-0371,JP Morgan,3422284.58,0.0412,0.457,467,FX Forward
+TRD-0372,Citi,8548458.52,0.0116,0.482,203,Credit Default Swap
+TRD-0373,JP Morgan,16148611.95,0.0292,0.415,588,Interest Rate Swap
+TRD-0374,Deutsche Bank,3848431.12,0.0142,0.226,556,Credit Default Swap
+TRD-0375,Goldman Sachs,5355776.51,0.0197,0.375,688,Credit Default Swap
+TRD-0376,Deutsche Bank,14722798.8,0.0495,0.275,55,Cross Currency Swap
+TRD-0377,Citi,14680694.19,0.0157,0.202,849,FX Forward
+TRD-0378,JP Morgan,13181805.02,0.03,0.436,634,FX Forward
+TRD-0379,JP Morgan,14185020.44,0.0347,0.115,435,FX Forward
+TRD-0380,Barclays,11311764.42,0.0381,0.461,261,Cross Currency Swap
+TRD-0381,JP Morgan,5784182.12,0.0324,0.285,562,Cross Currency Swap
+TRD-0382,Barclays,7568223.88,0.0104,0.355,534,FX Forward
+TRD-0383,Goldman Sachs,4450356.62,0.0231,0.364,208,Cross Currency Swap
+TRD-0384,Citi,18260560.67,0.0307,0.458,161,Cross Currency Swap
+TRD-0385,Barclays,12084444.1,0.0135,0.355,377,Cross Currency Swap
+TRD-0386,Goldman Sachs,8616176.92,0.024,0.346,569,FX Forward
+TRD-0387,JP Morgan,9778110.27,0.0113,0.127,801,FX Forward
+TRD-0388,JP Morgan,18998383.45,0.0131,0.307,105,FX Forward
+TRD-0389,Goldman Sachs,3913676.66,0.0259,0.16,608,Cross Currency Swap
+TRD-0390,JP Morgan,12138366.81,0.0153,0.395,883,FX Forward
+TRD-0391,Goldman Sachs,10611884.9,0.0327,0.305,223,Cross Currency Swap
+TRD-0392,Barclays,12617630.47,0.0376,0.372,376,Interest Rate Swap
+TRD-0393,Barclays,1344093.49,0.042,0.117,980,Cross Currency Swap
+TRD-0394,Goldman Sachs,17570354.27,0.018,0.134,243,Credit Default Swap
+TRD-0395,Barclays,18710247.37,0.0167,0.387,602,FX Forward
+TRD-0396,Barclays,11737530.49,0.0142,0.129,809,FX Forward
+TRD-0397,Barclays,14236365.65,0.0355,0.129,291,Credit Default Swap
+TRD-0398,Deutsche Bank,18527488.24,0.0383,0.105,759,Cross Currency Swap
+TRD-0399,Citi,14437534.05,0.0113,0.483,312,Interest Rate Swap
+TRD-0400,JP Morgan,3898241.82,0.0474,0.395,391,Credit Default Swap
+TRD-0401,Deutsche Bank,11949478.84,0.0121,0.241,470,Credit Default Swap
+TRD-0402,Barclays,12527585.88,0.0317,0.219,122,Cross Currency Swap
+TRD-0403,Goldman Sachs,9058482.75,0.0384,0.24,782,FX Forward
+TRD-0404,Barclays,14992440.48,0.0448,0.41,896,Cross Currency Swap
+TRD-0405,Citi,18752973.28,0.0386,0.365,171,Credit Default Swap
+TRD-0406,Barclays,18585801.75,0.0421,0.174,778,Credit Default Swap
+TRD-0407,Goldman Sachs,9565948.06,0.0236,0.17,682,FX Forward
+TRD-0408,Citi,3151522.87,0.0426,0.139,730,FX Forward
+TRD-0409,Barclays,19711982.78,0.0132,0.364,1027,FX Forward
+TRD-0410,Citi,16939063.64,0.0458,0.406,78,Cross Currency Swap
+TRD-0411,JP Morgan,3368590.94,0.0319,0.206,910,FX Forward
+TRD-0412,JP Morgan,18495995.77,0.0427,0.108,584,Credit Default Swap
+TRD-0413,Barclays,17528030.88,0.0281,0.133,433,Credit Default Swap
+TRD-0414,Citi,10857923.09,0.0357,0.487,921,Interest Rate Swap
+TRD-0415,Goldman Sachs,12234233.28,0.0311,0.218,894,Cross Currency Swap
+TRD-0416,Barclays,8581051.37,0.0393,0.408,631,Interest Rate Swap
+TRD-0417,JP Morgan,2040471.14,0.0133,0.35,370,Credit Default Swap
+TRD-0418,JP Morgan,7368747.59,0.0124,0.253,733,Interest Rate Swap
+TRD-0419,Barclays,16254215.52,0.0199,0.182,347,Credit Default Swap
+TRD-0420,Citi,1088008.44,0.0164,0.149,647,Interest Rate Swap
+TRD-0421,JP Morgan,7336484.26,0.0449,0.346,411,FX Forward
+TRD-0422,Citi,8565205.18,0.0188,0.41,262,Interest Rate Swap
+TRD-0423,JP Morgan,11210516.46,0.049,0.358,846,FX Forward
+TRD-0424,JP Morgan,18477256.71,0.0235,0.312,582,FX Forward
+TRD-0425,Deutsche Bank,7580573.89,0.0173,0.117,885,Cross Currency Swap
+TRD-0426,JP Morgan,7592110.84,0.0416,0.487,848,FX Forward
+TRD-0427,Goldman Sachs,15012523.71,0.0363,0.419,212,FX Forward
+TRD-0428,Barclays,9592140.88,0.0299,0.217,1094,Interest Rate Swap
+TRD-0429,Barclays,5267491.64,0.0322,0.492,426,Credit Default Swap
+TRD-0430,Citi,9596350.81,0.0388,0.341,808,Cross Currency Swap
+TRD-0431,JP Morgan,3676283.39,0.0191,0.333,936,FX Forward
+TRD-0432,Goldman Sachs,4351352.74,0.0499,0.399,156,Cross Currency Swap
+TRD-0433,Citi,10468987.68,0.049,0.425,30,Interest Rate Swap
+TRD-0434,Deutsche Bank,8959583.54,0.036,0.363,48,FX Forward
+TRD-0435,Citi,18382072.12,0.018,0.151,613,Interest Rate Swap
+TRD-0436,Citi,7885484.08,0.0372,0.235,485,Cross Currency Swap
+TRD-0437,JP Morgan,12031178.66,0.0129,0.471,986,Interest Rate Swap
+TRD-0438,Deutsche Bank,13013021.47,0.0112,0.19,474,Cross Currency Swap
+TRD-0439,Citi,1248794.68,0.0203,0.249,631,Interest Rate Swap
+TRD-0440,Goldman Sachs,13607210.07,0.0285,0.273,132,Cross Currency Swap
+TRD-0441,Goldman Sachs,4382683.37,0.0447,0.276,1017,Credit Default Swap
+TRD-0442,Barclays,19260336.03,0.0391,0.345,549,Interest Rate Swap
+TRD-0443,Deutsche Bank,3824591.83,0.0397,0.477,888,Interest Rate Swap
+TRD-0444,Deutsche Bank,8877858.35,0.027,0.196,203,Credit Default Swap
+TRD-0445,Barclays,2621643.69,0.0238,0.149,1034,Credit Default Swap
+TRD-0446,Citi,19940610.79,0.0248,0.179,460,Interest Rate Swap
+TRD-0447,Deutsche Bank,10541705.2,0.0495,0.455,756,Credit Default Swap
+TRD-0448,Goldman Sachs,12312315.33,0.0116,0.358,879,FX Forward
+TRD-0449,Goldman Sachs,2274453.07,0.0447,0.214,1019,Cross Currency Swap
+TRD-0450,JP Morgan,15249248.94,0.0331,0.426,668,Cross Currency Swap
+TRD-0451,Deutsche Bank,4988206.27,0.0275,0.445,449,Cross Currency Swap
+TRD-0452,Citi,18063031.5,0.039,0.439,623,FX Forward
+TRD-0453,Barclays,4897653.17,0.0295,0.468,514,Credit Default Swap
+TRD-0454,Barclays,4623066.69,0.0449,0.201,441,Credit Default Swap
+TRD-0455,Citi,1694443.69,0.046,0.402,965,Interest Rate Swap
+TRD-0456,JP Morgan,9969271.96,0.0269,0.284,361,Credit Default Swap
+TRD-0457,Barclays,11731981.53,0.0211,0.437,684,Interest Rate Swap
+TRD-0458,Deutsche Bank,2248464.15,0.0337,0.391,70,FX Forward
+TRD-0459,JP Morgan,15735024.72,0.0465,0.411,988,Cross Currency Swap
+TRD-0460,Deutsche Bank,9612487.86,0.0184,0.362,134,Cross Currency Swap
+TRD-0461,Goldman Sachs,10963415.12,0.0349,0.171,231,Cross Currency Swap
+TRD-0462,JP Morgan,9374492.19,0.0353,0.318,479,Credit Default Swap
+TRD-0463,Barclays,8614498.16,0.0393,0.494,939,Interest Rate Swap
+TRD-0464,JP Morgan,11633166.29,0.0153,0.475,239,Interest Rate Swap
+TRD-0465,JP Morgan,3949564.67,0.0386,0.117,592,FX Forward
+TRD-0466,JP Morgan,4456634.48,0.0464,0.166,742,Credit Default Swap
+TRD-0467,JP Morgan,17373926.8,0.0172,0.153,800,FX Forward
+TRD-0468,Deutsche Bank,18976193.78,0.0195,0.39,483,Interest Rate Swap
+TRD-0469,Goldman Sachs,8092877.01,0.0489,0.427,696,Interest Rate Swap
+TRD-0470,Citi,6144148.79,0.0172,0.185,658,Cross Currency Swap
+TRD-0471,JP Morgan,13235991.32,0.0442,0.302,416,Credit Default Swap
+TRD-0472,Barclays,8765949.25,0.0297,0.436,325,Interest Rate Swap
+TRD-0473,JP Morgan,1482340.76,0.0199,0.393,287,Cross Currency Swap
+TRD-0474,Barclays,3966899.35,0.0448,0.317,297,Credit Default Swap
+TRD-0475,Deutsche Bank,14603472.35,0.0278,0.336,448,FX Forward
+TRD-0476,Barclays,13519554.9,0.0306,0.303,264,Credit Default Swap
+TRD-0477,Citi,1514823.86,0.0244,0.219,1015,Credit Default Swap
+TRD-0478,Goldman Sachs,5217471.08,0.0337,0.326,603,Interest Rate Swap
+TRD-0479,Barclays,5390421.14,0.0165,0.376,78,Interest Rate Swap
+TRD-0480,Barclays,13765962.13,0.0256,0.449,252,Credit Default Swap
+TRD-0481,Goldman Sachs,1374500.22,0.0488,0.355,950,Interest Rate Swap
+TRD-0482,Citi,2978063.06,0.0203,0.404,306,Interest Rate Swap
+TRD-0483,JP Morgan,16198405.62,0.0363,0.164,449,Interest Rate Swap
+TRD-0484,Barclays,4392348.58,0.023,0.285,640,Cross Currency Swap
+TRD-0485,Goldman Sachs,13402176.05,0.0409,0.104,404,Cross Currency Swap
+TRD-0486,Deutsche Bank,5525472.84,0.0152,0.199,102,Credit Default Swap
+TRD-0487,Goldman Sachs,2889386.46,0.0488,0.391,1083,Interest Rate Swap
+TRD-0488,Deutsche Bank,5620271.63,0.0282,0.497,224,Cross Currency Swap
+TRD-0489,Citi,14723071.71,0.0194,0.14,876,Credit Default Swap
+TRD-0490,JP Morgan,17258232.89,0.0129,0.261,1094,Interest Rate Swap
+TRD-0491,Goldman Sachs,16774177.43,0.0168,0.42,52,FX Forward
+TRD-0492,Barclays,8546487.06,0.0308,0.182,389,Interest Rate Swap
+TRD-0493,Citi,13693617.59,0.0235,0.322,589,Interest Rate Swap
+TRD-0494,Goldman Sachs,4894701.61,0.0432,0.393,701,Cross Currency Swap
+TRD-0495,Barclays,6569806.87,0.0272,0.346,708,Credit Default Swap
+TRD-0496,Goldman Sachs,18030380.55,0.0199,0.175,469,Credit Default Swap
+TRD-0497,Deutsche Bank,1247036.55,0.0347,0.242,962,Cross Currency Swap
+TRD-0498,Goldman Sachs,2624662.09,0.0383,0.414,36,Interest Rate Swap
+TRD-0499,Goldman Sachs,4949838.85,0.0167,0.322,450,FX Forward
+TRD-0500,Goldman Sachs,1504111.87,0.0167,0.102,862,Interest Rate Swap

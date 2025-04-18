@@ -1,0 +1,16 @@
+{
+    "scenarios": {
+        "Market Up": {
+            "label": "Rates Up / Volatility Up",
+            "factor": 1.05
+        },
+        "Market Flat": {
+            "label": "No Market Change",
+            "factor": 1.0
+        },
+        "Market Down": {
+            "label": "Rates Down / Volatility Down",
+            "factor": 0.95
+        }
+    }
+}
